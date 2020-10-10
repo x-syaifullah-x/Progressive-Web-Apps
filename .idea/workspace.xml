@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="369b3f69-25c8-4664-aa30-168b16084707" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/materialize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/materialize.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bzdNLVDXBq90ujgBVdilmmXBiO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="369b3f69-25c8-4664-aa30-168b16084707" name="Default Changelist" comment="" />
+      <created>1589638814947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589638814947</updated>
+      <workItem from="1589638817912" duration="20000" />
+      <workItem from="1589638898482" duration="2696000" />
+      <workItem from="1589643986784" duration="6822000" />
+      <workItem from="1589651161538" duration="1069000" />
+    </task>
+    <task id="LOCAL-00001" summary="'...'">
+      <created>1589645478731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589645478731</updated>
+    </task>
+    <task id="LOCAL-00002" summary="'...'">
+      <created>1589646204270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589646204270</updated>
+    </task>
+    <task id="LOCAL-00003" summary="'...'">
+      <created>1589648662399</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589648662399</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'...'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'...'" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="140" width="532" height="493" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589650376977">
+      <screen x="0" y="35" width="1366" height="708" />
+    </state>
+    <state x="416" y="140" width="532" height="493" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.35.1366.708@0.35.1366.708" timestamp="1589650376977" />
+    <state x="339" y="35" width="685" height="704" key="CommitChangelistDialog2" timestamp="1589648662289">
+      <screen x="0" y="35" width="1366" height="708" />
+    </state>
+    <state x="339" y="35" width="685" height="704" key="CommitChangelistDialog2/0.35.1366.708@0.35.1366.708" timestamp="1589648662289" />
+    <state x="278" y="125" width="808" height="524" key="Vcs.Push.Dialog.v2" timestamp="1589646209674">
+      <screen x="0" y="35" width="1366" height="708" />
+    </state>
+    <state x="278" y="125" width="808" height="524" key="Vcs.Push.Dialog.v2/0.35.1366.708@0.35.1366.708" timestamp="1589646209674" />
+  </component>
+</project>
