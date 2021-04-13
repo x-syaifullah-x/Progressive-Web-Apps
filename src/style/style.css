@@ -1,0 +1,25 @@
+.btn {
+    background-color: #4a148c
+}
+
+.parallax-container {
+    height: 57vh;
+}
+
+.btn:hover {
+    background-color: #6a1b9a
+}
+
+.btn:focus{
+    background-color: #4a148c
+}
+
+.container {
+    width: 95%;
+}
+
+@media only screen and (max-width: 550px) {
+    .container {
+        width: 99%;
+    }
+}
